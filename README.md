@@ -42,8 +42,12 @@ main/ → ponto de entrada da aplicação (SistemaAitApp).
 
 🧩 Funcionalidades e arranjo de trabalho
 Item	Funcionalidade	Escopo resumido	Arranjo	Observações
-A	Cadastro e criação de AIT	Registro de dados (condutor, agente, infração, local)	Individual	Definição de modelo, DAOs e validações
-B	Emissão/Impressão do AIT	Geração de saída via AitPrinter (ex.: relatório ou impressão)	Par	Implementado em dupla, alternando Driver/Navigator
+A	Cadastro e criação de AIT	Registro de dados (condutor, agente, infração, local)
+Individual	Definição de modelo, 
+DAOs e validações
+B	Emissão/Impressão do AIT	Geração de saída via AitPrinter (ex.: relatório ou impressão)	
+Par	Implementado em dupla, alternando Driver/Navigator
+
 🛠️ Como executar
 # Clonar o repositório
 git clone https://github.com/richfalmeida/programacao-em-pares.git
