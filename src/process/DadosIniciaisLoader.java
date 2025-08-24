@@ -28,7 +28,7 @@ public class DadosIniciaisLoader {
         Ait ait1 = new AitBuilder()
                 .addCdAit(1)
                 .addNrAit("A012025")
-                .addDtInfracao("2025-08-24")
+                .addDtInfracao("2025-08-24 10:15:02")
                 .addVlMulta(293.47)
                 .addDsLocalInfracao("Av. Paulista - nº 1000")
                 .addDtPrazoDefesa("2025-11-10")
